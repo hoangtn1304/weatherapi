@@ -1,4 +1,4 @@
-# weatherapi
+# Weather REST API with Golang
 
 Register your own API at these sites and replace with my API
 - https://home.openweathermap.org
